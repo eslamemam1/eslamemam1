@@ -1,15 +1,15 @@
 ## 👋 Hi, I'm Eslam Emam
 
-Angular Developer at **Polaris Systems**, working on an enterprise-level **HR ERP system** with an Australian company.  
-Specialized in building scalable, maintainable, and high-performance frontend applications using Angular and modern UI libraries.
+Angular Developer at **Polaris Systems**, working on an enterprise-level **HR ERP system** for an Australian company.  
+I specialize in building scalable, maintainable, and high-performance frontend applications using Angular and modern UI libraries.
 
-Focused on writing clean, efficient code, addressing complex business requirements, and delivering reliable, enterprise-grade solutions.
+Focused on writing clean, efficient code, tackling complex business requirements, and delivering reliable, enterprise-grade solutions.
 
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslam-emam-12695815b)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@eslamemam5214)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslam-emam-12695815b)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eslamemam5214)
 
 ---
 
@@ -29,17 +29,17 @@ Focused on writing clean, efficient code, addressing complex business requiremen
 **Angular Developer – Polaris Systems (Australian Company)**  
 *HR ERP Project*
 
-- Developing enterprise Angular modules using TypeScript
-- Building complex forms, tables, and dashboards with PrimeNG
-- Integrating RESTful APIs and handling async data using RxJS
-- Implementing business logic and advanced validations
-- Collaborating in an Agile/Scrum environment
+- Develop enterprise Angular modules using TypeScript  
+- Build complex forms, tables, and dashboards with PrimeNG  
+- Integrate RESTful APIs and manage async data using RxJS  
+- Implement business logic and advanced validations  
+- Collaborate in an Agile/Scrum environment  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=eslamemam1)
+![GitHub Streak](https://streak-stats.demolab.com?user=eslamemam1&theme=black-ice&hide_border=true)
 
 ---
 
-⭐ Feel free to explore my repositories and projects
+⭐ Feel free to explore my repositories and projects!
