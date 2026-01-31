@@ -38,8 +38,7 @@ Focused on writing clean, efficient code, addressing complex business requiremen
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eslamemam1&show_icons=true)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eslamemam1&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=eslamemam1)
 
 ---
 
