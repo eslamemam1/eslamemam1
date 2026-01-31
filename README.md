@@ -38,7 +38,7 @@ Focused on writing clean, efficient code, addressing complex business requiremen
 ---
 
 ## 📊 GitHub Stats
-![Eslam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eslamemam1&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eslamemam1&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eslamemam1&layout=compact&theme=dark)
 
 ---
