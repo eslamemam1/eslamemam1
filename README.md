@@ -1,67 +1,46 @@
-# Hi 👋 I'm Eslam Emam
+## 👋 Hi, I'm Eslam Emam
 
-Angular Developer & Software Engineer working on enterprise-level HR ERP systems.  
-Experienced in building scalable, maintainable, and user-centric web applications.
+Angular Developer working on an enterprise-level **HR ERP system** with an Australian company.  
+I specialize in building scalable, maintainable, and high-performance frontend applications using Angular and modern UI libraries.
 
----
-
-## 🧠 Tech Stack & Skills
-
-### Frontend
-- Angular (Standalone Components, Signals, RxJS)
-- TypeScript
-- HTML5, CSS3, SCSS
-
-### UI & Design Systems
-- PrimeNG
-- Responsive Layouts
-- Enterprise UI Patterns
-
-### State & Data
-- RxJS (Observables, Subjects)
-- REST APIs Integration
-- Reactive Forms & Validation
-
-### Tools & Workflow
-- Git & GitHub
-- Agile / Scrum
-- Clean Code & Modular Architecture
+I enjoy writing clean code, solving complex business requirements, and delivering reliable enterprise solutions.
 
 ---
 
-## 💼 Professional Experience
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@eslamemam5214)
 
-### Angular Developer  
-**Polaris Systems – Australian company**  
+---
+
+## 💻 Tech Stack
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-2C7BE5?style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🏢 Professional Experience
+**Angular Developer – Polaris Systems (Australian Company)**  
 *HR ERP Project*
 
-- Developing and maintaining HR ERP modules using Angular
+- Developing enterprise Angular modules using TypeScript
 - Building complex forms, tables, and dashboards with PrimeNG
-- Integrating RESTful APIs and handling business logic
-- Writing clean, scalable, and maintainable code
-- Collaborating with backend and QA teams in an Agile environment
+- Integrating RESTful APIs and handling async data using RxJS
+- Implementing business logic and advanced validations
+- Collaborating in an Agile/Scrum environment
 
 ---
 
-## 📌 Featured Work
-- HR ERP Modules (Employees, Positions, Master Data)
-- Enterprise Dashboards & Data Tables
-- Forms with advanced validation and business rules
+## 📊 GitHub Stats
+![Eslam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eslamemam1&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eslamemam1&layout=compact&theme=dark)
 
 ---
 
-## 🎯 Currently
-- Deepening Angular architecture & best practices
-- Improving performance and state management
-- Building enterprise-grade UI with PrimeNG
-
----
-
-## 📫 Connect with Me
-- 💻 GitHub: https://github.com/eslamemam1
-- 📺 YouTube: https://www.youtube.com/@eslamemam5214
-- 🔗 LinkedIn: www.linkedin.com/in/eslam-emam-12695815b
-
----
-
-⭐ Open to Angular & Frontend opportunities
+⭐ Feel free to explore my repositories and projects
