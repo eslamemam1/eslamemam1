@@ -38,7 +38,7 @@ Focused on writing clean, efficient code, addressing complex business requiremen
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=eslamemam1&theme=dark&background=000000)
+![GitHub Streak](https://streak-stats.demolab.com?user=eslamemam1&theme=black-ice)
 
 ---
 
