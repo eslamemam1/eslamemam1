@@ -60,7 +60,7 @@ Experienced in building scalable, maintainable, and user-centric web application
 ## 📫 Connect with Me
 - 💻 GitHub: https://github.com/eslamemam1
 - 📺 YouTube: https://www.youtube.com/@eslamemam5214
-- 🔗 LinkedIn: https://www.linkedin.com/in/your-link
+- 🔗 LinkedIn: www.linkedin.com/in/eslam-emam-12695815b
 
 ---
 
