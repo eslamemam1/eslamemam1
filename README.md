@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋 I'm Eslam Emam
 
-<!--
-**eslamemam1/eslamemam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer & Software Engineer specialized in building modern, responsive, and user-friendly web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript, React.js
+- **Styling:** Tailwind CSS, Bootstrap
+- **Tools:** Git, GitHub, Figma
+- **Basics:** TypeScript, Next.js, Node.js
+
+---
+
+## 💼 Experience
+- Frontend Developer (React.js)
+- NOC Engineer – Access Network (Huawei)
+
+---
+
+## 📌 Featured Projects
+- The Holy Quran App (React)
+- CRUD React Application
+- Dashboard & Booking System
+- Responsive Landing Pages
+
+---
+
+## 🎯 Currently
+- Improving React best practices & performance
+- Learning clean architecture & scalable frontend patterns
+
+---
+
+## 📫 Connect with Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/your-link
+- 📺 YouTube: https://www.youtube.com/@eslamemam5214
+- 💻 GitHub: https://github.com/eslamemam1
+
+---
+
+⭐ Feel free to explore my repositories!
