@@ -1,14 +1,14 @@
 ## 👋 Hi, I'm Eslam Emam
 
-Angular Developer working on an enterprise-level **HR ERP system** with an Australian company.  
-I specialize in building scalable, maintainable, and high-performance frontend applications using Angular and modern UI libraries.
+Angular Developer at **Polaris Systems**, working on an enterprise-level **HR ERP system** with an Australian company.  
+Specialized in building scalable, maintainable, and high-performance frontend applications using Angular and modern UI libraries.
 
-I enjoy writing clean code, solving complex business requirements, and delivering reliable enterprise solutions.
+Focused on writing clean, efficient code, addressing complex business requirements, and delivering reliable, enterprise-grade solutions.
 
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/eslam-emam-12695815b)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@eslamemam5214)
 
 ---
