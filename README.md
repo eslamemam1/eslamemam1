@@ -1,13 +1,15 @@
 ## 👋 Hi, I'm Eslam Emam
 
-Angular Developer at **Polaris Systems**, working on an enterprise-level **HR ERP system** for an Australian company.  
-I specialize in building scalable, maintainable, and high-performance frontend applications using Angular and modern UI libraries.
+**Frontend Engineer | Angular · React · TypeScript | Growing into Full Stack**
 
-Focused on writing clean, efficient code, tackling complex business requirements, and delivering reliable, enterprise-grade solutions.
+Based in Cairo, Egypt. I build enterprise web apps (HR-ERP modules at **Microtec Egypt**) and freelance products with Angular, React, Supabase and PostgreSQL. I use AI tools (Claude, Cursor) daily, guided by written project rules, and review every change before it ships.
+
+🔭 Open to remote Frontend / Full Stack roles.
 
 ---
 
-## 🌐 Socials
+## 🌐 Links
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=githubpages&logoColor=white)](https://eslamemam1.github.io/eslam-emam-showcase)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslam-emam-12695815b)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eslamemam5214)
 
@@ -15,31 +17,40 @@ Focused on writing clean, efficient code, tackling complex business requirements
 
 ## 💻 Tech Stack
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![PrimeNG](https://img.shields.io/badge/PrimeNG-2C7BE5?style=for-the-badge&logo=primeng&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 🏢 Professional Experience
-**Angular Developer – Polaris Systems (Australian Company)**  
-*HR ERP Project*
-
-- Develop enterprise Angular modules using TypeScript  
-- Build complex forms, tables, and dashboards with PrimeNG  
-- Integrate RESTful APIs and manage async data using RxJS  
-- Implement business logic and advanced validations  
-- Collaborate in an Agile/Scrum environment  
+- **Angular:** RxJS, Signals, Reactive Forms, Route Guards, Interceptors, PrimeNG
+- **Architecture:** Nx, Module Federation, Micro Frontends
+- **Backend & data:** Supabase, PostgreSQL, Node.js, Firebase, headless WordPress, C#/.NET (learning)
+- **AI-assisted development:** Claude, Cursor
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=eslamemam1&theme=black-ice&hide_border=true)
+## 🏢 Experience
+**Frontend Engineer, Microtec Egypt (Remote)** · Oct 2024 – Present  
+Enterprise HR-ERP modules with Angular, TypeScript, PrimeNG and RxJS; reusable components, dashboards and business workflows; Nx and Micro Frontends; direct work with clients on requirements and demos.
+
+**Frontend Developer, Freelance** · Jan 2023 – Present  
+Websites and web apps for clients in tourism, sports and transportation, from Figma designs to deployment.
 
 ---
 
-⭐ Feel free to explore my repositories and projects!
+## 🚀 Selected Work
+- **RouteOps**: multi-tenant SaaS for staff-transportation companies (Angular, Nx, Supabase/PostgreSQL), private repository
+- **[CAF Sports](https://caf-sports.com)**: bilingual (EN/AR) React site on headless WordPress
+- **[3lamko Bus](https://3lamko-bus.com)**: transport platform with a client dashboard
+- **[Hurghada Vibes Tours](https://hurghada-vibes-tours.com)**: tourism and booking website
+- **[Abuzeid Academy](https://abuzeid-academy.vercel.app)**: educational platform
+
+More in my [portfolio](https://eslamemam1.github.io/eslam-emam-showcase).
