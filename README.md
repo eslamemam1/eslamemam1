@@ -47,7 +47,7 @@ Websites and web apps for clients in tourism, sports and transportation, from Fi
 ---
 
 ## 🚀 Selected Work
-- **RouteOps**: multi-tenant SaaS for staff-transportation companies (Angular, Nx, Supabase/PostgreSQL), private repository
+- **Addadak (عدّادك)**: multi-tenant SaaS for staff-transportation companies (Angular, Nx, Supabase/PostgreSQL), live at [addadak-app.vercel.app](https://addadak-app.vercel.app), private repository
 - **[CAF Sports](https://caf-sports.com)**: bilingual (EN/AR) React site on headless WordPress
 - **[3lamko Bus](https://3lamko-bus.com)**: transport platform with a client dashboard
 - **[Hurghada Vibes Tours](https://hurghada-vibes-tours.com)**: tourism and booking website
